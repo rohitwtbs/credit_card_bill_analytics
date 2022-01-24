@@ -1,0 +1,11 @@
+- use some library to get all the tables in all the pages of the pdf
+- and then clean it
+- and dump the data into a relational database
+- based on timestamp
+- if timestamp exists then donot update, but this can be only true if the
+transcation is done from the same card , a person can have multiple 
+credit cards.
+- lets keep it simple for now, and proceed , i.e timestamps of two 
+transactions cannot be same
+- first dashboard should show a pie chart with bifurcation of 
+money spent
