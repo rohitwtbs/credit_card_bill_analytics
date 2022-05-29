@@ -9,3 +9,9 @@ credit cards.
 transactions cannot be same
 - first dashboard should show a pie chart with bifurcation of 
 money spent
+
+
+
+- i am now thinking of data directly from 
+various banks api and set up an Airflow pipeline to do the same
+daily
